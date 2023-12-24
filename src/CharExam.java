@@ -5,7 +5,7 @@ public class CharExam {
         int c = '3';
         int d = '4';
         int e = '5';
-        int sum = ('1'+'2'+'3'+'4'+'5')-('0'*5);
+        int sum = (a+b+c+d+e)-('0'*5);
         System.out.println("sum = " + sum);
     }
 }
