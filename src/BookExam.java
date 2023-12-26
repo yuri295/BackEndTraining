@@ -1,7 +1,7 @@
 public class BookExam {
     public static void main(String[] args) {
         Book b = new Book();
-        b.title = "연애 성공 비법";
+        b.title = "시간 여행자";
         b.price = 100000;
         b.company = "요정의 눈물";
         b.author = "진유리";
